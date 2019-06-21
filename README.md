@@ -2,4 +2,4 @@
 
 The VBA script loops through all the tickers per year(in each sheet) and calculates the total stock volume for each ticker. The tickers are in column I and the Total Stock Volume for each ticker are in Column J. 
 
-The VBA script is attached as well as the excel sheet and a word document with the screenshots
+The VBA script is attached as a word document with the screenshots.
